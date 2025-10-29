@@ -1,4 +1,3 @@
-<img width="1919" height="1035" alt="Screenshot_10" src="https://github.com/user-attachments/assets/3f7ee6cc-f257-4f4a-9456-384be505f0ba" />
 # 🚀 ChainLotto
 
 **Beginner-friendly on‑chain lottery contract**
@@ -6,6 +5,9 @@
 A simple Solidity smart contract that lets users enter a lottery by paying a fixed entry fee. The contract collects entries each round and allows the owner to pick a winner who receives the contract balance. This repository is designed for learning and experimentation — perfect if you're just getting started with Solidity and Ethereum development.
 
 ---
+
+<img width="1919" height="1035" alt="Screenshot_10" src="https://github.com/user-attachments/assets/0964cc83-ff38-4e8c-bcb3-f73f7cead362" />
+
 
 ## 📁 Project Description
 
@@ -51,7 +53,7 @@ Key public variables and functions (examples from the contract):
 
 ## 🔧 Deployed Smart Contract Link
 
-**Deployed Smart Contract Link: XXX**
+**Deployed Smart Contract Link:** [Deployed Contract](https://celo-sepolia.blockscout.com/address/0x268911e379092f427A0DADd4a588C8f22F46EFF7?tab=index)
 
 (Replace `XXX` with the real contract explorer URL once you deploy to a testnet or mainnet — e.g. Etherscan / Polygonscan / Snowtrace link.)
 
