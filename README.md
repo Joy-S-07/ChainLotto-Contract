@@ -218,10 +218,4 @@ contract ChainLotto {
 
 ---
 
-If you'd like, I can:
 
-* paste the actual `ChainLotto.sol` code into this README (replace `//paste your code`),
-* add a sample front-end snippet (React + ethers.js) to let users enter from a webpage, or
-* create a Chainlink VRF version of the contract with deployment notes.
-
-Tell me which one and I’ll update the README accordingly!
